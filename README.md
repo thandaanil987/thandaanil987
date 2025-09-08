@@ -1,7 +1,7 @@
 - 👋 Hi, I’m THANDA ANIL KUMAR
-- 👀 I’m interested in Fullstack Development and content creation
-- 🌱 I’m currently learning  Python fullstack development
-- 💞️ I’m looking to collaborate on open source Fullstack projects and content creation
+- 👀 I’m interested in data analytics and content creation
+- 🌱 I’m currently learning data analytics and  Python fullstack development with ai
+- 💞️ I’m looking to collaborate on open source data analytics and web projects and content creation
 - 📫 How to reach me thandaanil987@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:I love hiking and exploring new places
