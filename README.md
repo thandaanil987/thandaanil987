@@ -1,12 +1,19 @@
-- 👋 Hi, I’m THANDA ANIL KUMAR
-- 👀 I’m interested in data analytics and content creation
-- 🌱 I’m currently learning data analytics and  Python fullstack development with ai
-- 💞️ I’m looking to collaborate on open source data analytics and web projects and content creation
-- 📫 How to reach me thandaanil987@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact:I love hiking and exploring new places
+👋 Hi, I'm Thanda Anil Kumar
 
-<!---
-thandaanil987/thandaanil987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📊 Data Analyst | SQL | Python | Power BI | Excel
+
+👨‍💻 About Me
+
+📊 Passionate Data Analyst with hands-on experience in SQL, Python, Power BI, and Excel
+
+🔍 Interested in data analytics, business insights, and dashboard development
+
+🌱 Currently improving my skills in advanced analytics, machine learning basics, and data visualization
+
+🤝 Open to collaborating on data analytics projects, open-source datasets, and dashboard projects
+
+📫 Reach me at thandaanil987@gmail.com
+
+📍 Tirupati, Andhra Pradesh, India
+
+⚡ Fun fact: I enjoy hiking and exploring new places
