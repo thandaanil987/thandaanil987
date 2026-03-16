@@ -1,19 +1,11 @@
-👋 Hi, I'm Thanda Anil Kumar
+## 👋 Hi, I'm **Thanda Anil Kumar**
 
-📊 Data Analyst | SQL | Python | Power BI | Excel
+📊 **Data Analyst | SQL | Python | Power BI | Excel**
 
-👨‍💻 About Me
-
-📊 Passionate Data Analyst with hands-on experience in SQL, Python, Power BI, and Excel
-
-🔍 Interested in data analytics, business insights, and dashboard development
-
-🌱 Currently improving my skills in advanced analytics, machine learning basics, and data visualization
-
-🤝 Open to collaborating on data analytics projects, open-source datasets, and dashboard projects
-
-📫 Reach me at thandaanil987@gmail.com
-
-📍 Tirupati, Andhra Pradesh, India
-
-⚡ Fun fact: I enjoy hiking and exploring new places
+* 🔍 Passionate about **Data Analytics, Business Insights, and Data Visualization**
+* 🌱 Currently learning **Advanced Data Analytics and AI-driven analytics tools**
+* 🤝 Open to collaborating on **Open Source Data Analytics & Dashboard Projects**
+* 📫 **Email:** [thandaanil987@gmail.com](mailto:thandaanil987@gmail.com)
+* 📍 **Location:** Tirupati, Andhra Pradesh, India
+* 😄 **Pronouns:** He/Him
+* ⚡ Fun fact: **I love hiking and exploring new places**
