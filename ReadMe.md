@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me<br><br>👋 Hi, I'm Thanda Anil Kumar, a Data Analyst passionate about turning data into actionable insights.<br><br>🔭 I'm currently working on Data Analytics projects.<br><br>👯 I'm looking to collaborate on Data Analytics and Power BI projects.<br><br>🤝 I'm looking for help with advanced analytics and real-world business problems.<br><br>🌱 I'm currently learning Data Engineering, AWS, Snowflake, and AI.<br><br>💬 Ask me about SQL, Python, Excel, and Power BI.<br><br>⚡ Fun fact: I love hiking and exploring new places!
+<br><br>👋 Hi, I'm Thanda Anil Kumar, a Data Analyst passionate about turning data into actionable insights.<br><br>🔭 I'm currently working on Data Analytics projects.<br><br>👯 I'm looking to collaborate on Data Analytics and Power BI projects.<br><br>🤝 I'm looking for help with advanced analytics and real-world business problems.<br><br>🌱 I'm currently learning Data Engineering, AWS, Snowflake, and AI.<br><br>💬 Ask me about SQL, Python, Excel, and Power BI.<br><br>⚡ Fun fact: I love hiking and exploring new places!
 
 
 ## 🌐 Socials:
